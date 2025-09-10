@@ -101,4 +101,4 @@ It will launch a web app showing:
 
 **Tanzeel Mansuri**  
 - Data Engineer | Data Scientist | BI Enthusiast  
-- [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
+- [LinkedIn](https://linkedin.com/in/tanzeel-mansuri) | [GitHub](https://github.com/B1-80435)  
